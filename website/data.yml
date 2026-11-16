@@ -3,6 +3,13 @@ categories:
   subcategories:
   - name: Inference Engine
     items:
+    - name: AirColibri
+      description: Local inference of Qwen3.5 hybrid models on a single consumer NVIDIA
+        GPU, with Q4 (W4A16) weights, layer streaming for low-VRAM cards and an OpenAI-compatible
+        LAN server.
+      homepage_url: https://github.com/DIIIUA/air-colibri
+      logo: default.png
+      repo_url: https://github.com/DIIIUA/air-colibri
     - name: Cortex.cpp
       description: Local AI API Platform.
       homepage_url: https://cortex.so
